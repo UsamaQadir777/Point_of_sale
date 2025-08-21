@@ -13,6 +13,7 @@
         "barryvdh/laravel-dompdf": "^1.0",
         "brotzka/laravel-dotenv-editor": "^2.1",
         "doctrine/dbal": "^2.13",
+        "fruitcake/laravel-cors": "^3.0",
         "guzzlehttp/guzzle": "^7.2",
         "infyomlabs/adminlte-templates": "^5.2",
         "infyomlabs/laravel-generator": "^5.4",
