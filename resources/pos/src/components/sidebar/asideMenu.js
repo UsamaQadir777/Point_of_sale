@@ -212,7 +212,7 @@ const AsideMenu = ( props ) =>
                 <SidebarHeader className='aside-menu-container__aside-logo flex-column-auto pb-2 pt-3'>
                     <a href='/' className='text-decoration-none sidebar-logo text-gray-900 fs-4'>
                         <div className={ `${ isMenuCollapse ? 'd-none' : 'image image-mini me-3' }` }>
-                            <img src={ frontSetting.value && frontSetting.value.logo }
+                            <img src='http://127.0.0.1:8000/uploads/settings\3\logo.png'
                                 className='img-fluid object-fit-contain'
                                 alt='profile image' />
                         </div>

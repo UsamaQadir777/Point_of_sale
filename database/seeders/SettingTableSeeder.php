@@ -63,7 +63,7 @@ class SettingTableSeeder extends Seeder
 
         if (! keyExist('footer')) {
             Setting::create([
-                'key' => 'footer', 'value' => '2022 Developed by Infy-pos All rights reserved - v1.1.0',
+                'key' => 'footer', 'value' => '2025 Developed by Usama & Qasim All rights reserved',
             ]);
         }
 

@@ -18,6 +18,7 @@ import dateFormatOptions from "./dateFormatOptions.json"
 
 const Settings = ( props ) =>
 {
+    console.log(12323);
     const {
         fetchSetting,
         fetchCacheClear,

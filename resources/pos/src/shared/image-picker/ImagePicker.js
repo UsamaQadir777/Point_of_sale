@@ -10,7 +10,7 @@ const ImagePicker = (props) => {
     return (
         <div className='col-12'>
             <label
-                className='form-label mb-4'>{imageTitle ? imageTitle : getFormattedMessage('globally.input.change-logo.tooltip')}:
+                className='form-label mb-4'>1111{imageTitle ? imageTitle : getFormattedMessage('globally.input.change-logo.tooltip')}:
             </label>
             <div className='d-block'>
                 <div
